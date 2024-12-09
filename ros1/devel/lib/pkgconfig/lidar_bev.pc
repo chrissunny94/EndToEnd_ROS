@@ -1,0 +1,8 @@
+prefix=/home/ws/devel
+
+Name: lidar_bev
+Description: Description of lidar_bev
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

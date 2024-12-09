@@ -1,0 +1,2 @@
+bev_image:fast_gicp:hdl_graph_slam:lidar_bev:ndt_omp
+-DCATKIN_DEVEL_PREFIX=/home/ws/devel -DCMAKE_INSTALL_PREFIX=/home/ws/install -G Unix Makefiles
